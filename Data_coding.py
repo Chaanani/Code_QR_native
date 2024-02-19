@@ -158,5 +158,5 @@ def Ecoding_data(chaine,niveau_correction):
     i=i+1
   return code
 
-chaine="FDGS GD"
+
 
